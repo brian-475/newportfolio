@@ -3,10 +3,12 @@ nav li{
     list-style:none;
     font-size:60px;
     color:red;
+
 }
 *{
     background-color: cyan;
     font-family: 'Oswald', sans-serif;
+    list-style: none;
 }
 h1{
     font-size: larger;
@@ -16,4 +18,8 @@ h1{
 .three{
     text-align: center;
     font-size: 40px;
+}
+footer{
+    text-align: center;
+    font-size: xx-large;
 }
