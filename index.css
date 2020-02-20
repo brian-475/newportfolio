@@ -7,9 +7,10 @@ nav li{
 *{
     background-color: cyan;
 }
-h1{
-    text-align: center;
-}
 li{
     color:red;
+}
+.one{
+text-align: center;
+font-size: 40px;
 }
