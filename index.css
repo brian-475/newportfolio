@@ -6,6 +6,8 @@ nav li{
 }
 *{
     background-color: cyan;
+    font-family: 'Oswald', sans-serif;
+    ;
 }
 li{
     color:red;
@@ -13,4 +15,8 @@ li{
 .one{
 text-align: center;
 font-size: 40px;
+}
+footer{
+    text-align:center;
+    font-size: xx-large;
 }
