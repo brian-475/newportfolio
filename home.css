@@ -1,0 +1,12 @@
+nav li{
+    text-align: center;
+    list-style:none;
+    font-size:60px;
+    color:red;
+}
+li{
+    color:red;
+}
+*{
+    background-color: cyan;
+}
