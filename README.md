@@ -14,4 +14,6 @@ I have no known bugs
 ## Support and contact details
 Incase of any query, reach me through the following email:brianadala15@gmail.com
 ## License
-
+  [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+<a href=https://choosealicense.com/licenses/mit/>MIT</a> 2020.
+Copyright (c) 
